@@ -10,14 +10,14 @@ http://archive.ics.uci.edu/ml/datasets/image+segmentation
 # Citing
 When using the code in your research work, please cite "A feature-reduction multi-view k-means clustering algorithm" by Miin-Shen Yang and Kristina P. Sinaga
 
-@article{yang2019feature,
-  title={A feature-reduction multi-view k-means clustering algorithm},
-  author={Yang, Miin-Shen and Sinaga, Kristina P},
-  journal={IEEE Access},
-  volume={7},
-  pages={114472--114486},
-  year={2019},
-  publisher={IEEE}
+@article{yang2019feature,<br />
+  title={A feature-reduction multi-view k-means clustering algorithm},<br />
+  author={Yang, Miin-Shen and Sinaga, Kristina P},<br />
+  journal={IEEE Access},<br />
+  volume={7},<br />
+  pages={114472--114486},<br />
+  year={2019},<br />
+  publisher={IEEE}<br />
 }
 
 # Acknowledgements
