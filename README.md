@@ -1,10 +1,11 @@
 # FRMVK
-Matlab implementation of A Feature-reduction Multi-view K-means Clustering Algorithm     
+Matlab implementation of A Feature-reduction Multi-view K-means Clustering Algorithm   
+https://www.academia.edu/40065647/A_feature-reduction_multi-view_k-means_clustering_algorithm
 
 # Dataset
 The Image segmentation (IS) dataset contains 2310 instances of seven outdoor images. These seven outdoor images are Brickface, Sky, Foliage, Cement, Window, Path, and Grass. Each image is represented by two different views: 9 features of the shape information and ten features of the RGB color model.
 
-# Dataset's Source
+# Source
 http://archive.ics.uci.edu/ml/datasets/image+segmentation 
 
 # Citing
